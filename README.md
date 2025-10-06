@@ -12,6 +12,6 @@ Mahasiswa di Universitas Unsoed, jurusan Teknik Komputer
 C, Python, C++
 ## 🔎 Fokusku sekarang : 
 Mempelajari dasar-dasar pemrograman dan algoritma
-<br> 🎯 Tujuanku : 
+## 🎯 Tujuanku : <br>
 Menjadi Internet Of Things (IoT)/ Embedded System / Artificial Intelligence (AI) 
 

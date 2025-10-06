@@ -1,4 +1,4 @@
-## ramadhager👋
+## Ramadha Geria Saputra👋
 
 Hai, nama aku Ramadha Geria Saputra!
 Selamat datang di profil GitHub aku!

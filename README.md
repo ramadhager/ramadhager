@@ -6,8 +6,8 @@ Aku masih mahasiswa baru yang lagi ngulik tentang dunia programming, teknologi, 
 Aku begitu tertarik untuk menjelajahi dunia coding serta membangun proyek kecil untuk belajar hal-hal baru setiap hari!🚀
 
 ## 💡 Tentang aku
-🎓 Mahasiswa di Universitas Unsoed, jurusan Teknik Komputer
-📚 Lagi belajar bahasa pemrograman : C, Python, C++
-🔎 Fokusku sekarang : Mempelajari dasar-dasar pemrograman dan algoritma
-🎯 Tujuanku : Menjadi Internet Of Things (IoT)/ Embedded System / Artificial Intelligence (AI)
+## 🎓 Mahasiswa di Universitas Unsoed, jurusan Teknik Komputer
+## 📚 Lagi belajar bahasa pemrograman : C, Python, C++
+## 🔎 Fokusku sekarang : Mempelajari dasar-dasar pemrograman dan algoritma
+## 🎯 Tujuanku : Menjadi Internet Of Things (IoT)/ Embedded System / Artificial Intelligence (AI)
 

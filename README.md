@@ -2,7 +2,7 @@
 
 ## Hai, nama aku Ramadha Geria Saputra!
 Selamat datang di profil GitHub aku!
-Aku masih mahasiswa baru yang lagi ngulik tentang dunia programming, teknologi, sama pengembangan software.
+Aku masih mahasiswa baru yang lagi memperdalam tentang dunia programming, teknologi, sama pengembangan software.
 Aku begitu tertarik untuk menjelajahi dunia coding serta membangun proyek kecil untuk belajar hal-hal baru setiap hari!🚀
 
 ## 💡 Tentang aku
@@ -12,6 +12,6 @@ Mahasiswa di Universitas Unsoed, jurusan Teknik Komputer
 C, Python, C++
 ## 🔎 Fokusku sekarang : 
 Mempelajari dasar-dasar pemrograman dan algoritma
-## 🎯 Tujuanku : <br>
+## 🎯 Tujuanku :
 Menjadi Internet Of Things (IoT)/ Embedded System / Artificial Intelligence (AI) 
 

@@ -7,8 +7,8 @@ Aku begitu tertarik untuk menjelajahi dunia coding serta membangun proyek kecil 
 
 💡 Tentang aku
 🎓 Mahasiswa di Universitas Unsoed, jurusan Teknik Komputer
-📚 Lagi belajar : C, Python, C++
+📚 Lagi belajar bahasa pemrograman : C, Python, C++
 🔎 Fokusku sekarang : Mempelajari dasar-dasar pemrograman dan algoritma
-🎯 Tujuanku : Menjadi Software Engineer / Web Dev / Data Analyst
-☕ Fun Fact : Akus suka Coding 
+🎯 Tujuanku : Menjadi Internet Of Things (IoT)/ Embedded System / Artificial Intelligence (AI)
+☕ Fun Fact : Aku  
 
